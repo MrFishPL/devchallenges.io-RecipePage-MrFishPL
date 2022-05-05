@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Recipe page - Responsive Web Developer challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://mrfishpl.github.io/devchallenges.io-RecipePage-MrFishPL/">
       Demo
     </a>
     <span> | </span>
@@ -29,7 +29,6 @@
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -37,22 +36,25 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/MrFishPL/devchallenges.io-RecipePage-MrFishPL/master/img/screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo?<br>
+  [here](https://mrfishpl.github.io/devchallenges.io-RecipePage-MrFishPL/)
+- What was your experience?<br>
+  It wasn't difficult challenge but I spent a lot oh hours doing it. The biggest problem was to style lists :)
+- What have you learned/improved?<br>
+  I learnt styling list and checkboxes, doing custom bullets etc. I improved my grid and flexbox skills.
+- Your wisdom? :)<br>
+  Styling checkboxes aren't nice ;_;
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML5](https://html5.org/)
+- [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Features
 
@@ -64,28 +66,14 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [ ] User story: This is a incompleted user stories
 - [ ] User story: This is a incompleted 2nd user stories
 
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [developer.mozilla.org](https://developer.mozilla.org)
+- [CSS Tricks](https://css-tricks.com)
+- [Stackoverflow](https://stackoverflow.com)
+- [W3 Schools](https://www.w3schools.com)
 
 ## Contact
 
