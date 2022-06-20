@@ -77,6 +77,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Facebook: [Michał Karp](https://www.facebook.com/karpik.junior)
+- Github: [MrFishPL](https://github.com/MrFishPL)
+- Discord: MrFishPL#3965
